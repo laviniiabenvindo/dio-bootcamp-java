@@ -1,3 +1,4 @@
+package anatomia;
 public class BoletimEstudantil {
  public static void main(String[] args) {
   int madiaFinal = 6;

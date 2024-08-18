@@ -1,3 +1,4 @@
+package anatomia;
 public class Variavel {
  public static void main(String[] args) {
   // tipos de variável
